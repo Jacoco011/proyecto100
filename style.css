@@ -1,0 +1,42 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+body
+{
+    background-color: blue;
+
+}
+
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 200;
+}
+
+h4
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#camera
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img
+{
+    width: auto;
+    border-radius: 2;
+}
+
+img:hover{
+    border-radius: 140px;
+}
